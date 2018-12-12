@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+=======
+https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+>>>>>>> decdea822f6a158ba446ae39927ab39b83ff7588
