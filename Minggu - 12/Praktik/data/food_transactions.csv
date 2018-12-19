@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+custid,item,store,quantity
+1,pear,A,5
+1,banana,A,10
+2,steak,B,3
+2,pear,B,1
+2,peach,B,2
+2,steak,B,1
+2,coconut,B,4
+=======
+custid,item,store,quantity
+1,pear,A,5
+1,banana,A,10
+2,steak,B,3
+2,pear,B,1
+2,peach,B,2
+2,steak,B,1
+2,coconut,B,4
+>>>>>>> decdea822f6a158ba446ae39927ab39b83ff7588
