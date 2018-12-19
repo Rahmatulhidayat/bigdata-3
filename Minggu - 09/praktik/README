@@ -1,0 +1,14 @@
+1.	Unduh Anaconda di https://www.anaconda.com/download/ dan pilih versi sesuai dengan os yang kita gunakan
+
+2.	Install Anaconda dan tunggu hingga proses instalasi selesai !
+
+3.	Cek dan Upgrade versi Pip dengan mengunakan perintah :
+    -	Pip –version
+    -	Pip install –upgrade pip
+    
+4.	Install Jupyter mengunakan perintah “Pip install jupyter” dan tunggu hingga selesai 
+
+5.	Menjalankan Notebook mengunakan perintah “jupyter notebook” 
+    Note :
+      Pada bagian ini, jika tidak ada masalah maka jendelah web browser akan otomatis terbuka dan menampilkan semua file kita yang berada pada lokasi anaconda yang kita install.  
+      http://localhost:8888/tree?
